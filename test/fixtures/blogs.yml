@@ -1,0 +1,6 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  id: 1
+  name: The Empire Strikes Back
+  author_id: 1
