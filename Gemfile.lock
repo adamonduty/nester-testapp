@@ -58,7 +58,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.16)
     multi_json (1.0.3)
-    nester (0.0.1a)
+    nester (0.0.2)
       rails (>= 3.0.0)
     polyglot (0.3.2)
     rack (1.3.3)
@@ -117,7 +117,7 @@ DEPENDENCIES
   coffee-rails (~> 3.1.0)
   inherited_resources
   jquery-rails
-  nester
+  nester (~> 0.0.2)
   rails (= 3.1.0)
   sass-rails (~> 3.1.0)
   sqlite3

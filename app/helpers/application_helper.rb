@@ -3,4 +3,5 @@ module ApplicationHelper
   nest :blog, :under => :author
   nest :post, :under => [:author, :blog]
   nest :comment, :under => [:author, :blog, :post]
+  nest :user, :namespace => :admin
 end

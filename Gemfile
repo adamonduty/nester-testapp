@@ -33,4 +33,4 @@ group :test do
 end
 
 gem 'inherited_resources'
-gem 'nester'
+gem 'nester', "~> 0.0.2"
